@@ -7,5 +7,5 @@
 ```
 #### screen definition
 ```
-![todo_list_result](https://github.com/nohjuhyeon/co_pythonwithmongo/assets/151099184/e30177e5-74a2-4236-b420-126bde636d0d)
+![todo_list_result](https://github.com/nohjuhyeon/co_pythonwithmongo/issues/1#issue-2087705349Z)
 ```
